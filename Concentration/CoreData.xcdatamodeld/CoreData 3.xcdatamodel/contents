@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17511" systemVersion="20C5048k" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Hi_Scores" representedClassName="Hi_Scores" syncable="YES" codeGenerationType="class">
+        <attribute name="score" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES" customClassName="[Int]"/>
+    </entity>
+    <elements>
+        <element name="Hi_Scores" positionX="-63" positionY="-18" width="128" height="44"/>
+    </elements>
+</model>
